@@ -1,3 +1,3 @@
 # curso-git-evvicente
 Descripción del proyecto:
-practica del curso git
+practica de PROYECTO para el curso git
